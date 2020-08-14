@@ -281,7 +281,55 @@
     ],
     
     
-    "content1": [
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Fall guys : Intro",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/title-6/master/list6.png",
+        "text": "offering Fall guys tips   ways to survive the latest online party game that has us hooked   might sound crazy. The game looks and feels like it works beyond reason, with an army of up to 60 multi-colored Fall guys running a race, jumping over each other and trying to steal each others tails.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-6-2/master/content-6-2.jpg",
+        "text": "But after a long week of grinding away at Fall guys (once the servers started working right), weve found some lessons to impart to help you win more Kudos and earn some more skins and colorways.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "https://raw.githubusercontent.com/youssefHairouch/content-1-3/master/3.jpg",
+        "text": "with all of the players spread across Ps4 and Pc, its possible that some of your friends will be battling it out on a different format. we look at the current situation with Fall guys crossplay and see what news there is about future developments with this feature.",
+        "isNative": "false"
+      }
+    ],
+    
+    
+    "content7": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
